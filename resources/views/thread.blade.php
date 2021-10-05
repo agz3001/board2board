@@ -1,5 +1,5 @@
 @extends("layout")
-@section("title", "Laravel掲示板")
+@section("title", "避難掲示板")
 @section("content")
 <div class="container">
   <div class="form-group">
